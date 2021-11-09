@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/indianasofia/CLionProjects/Prosit A Point /CLP3D.cpp
+CLP3D.h
+/Users/indianasofia/CLionProjects/Prosit A Point /CLP3D.h
+
+/Users/indianasofia/CLionProjects/Prosit A Point /CLP3D.h
+CLpoint3D.h
+/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint3D.h
+
+/Users/indianasofia/CLionProjects/Prosit A Point /CLParcours.cpp
+
+/Users/indianasofia/CLionProjects/Prosit A Point /CLParcours.h
+CLpoint.h
+/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint.h
+
+/Users/indianasofia/CLionProjects/Prosit A Point /CLparcours2D.cpp
+
+/Users/indianasofia/CLionProjects/Prosit A Point /CLparcours2D.h
+math.h
+-
+CLpoint.h
+/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint.h
+
+/Users/indianasofia/CLionProjects/Prosit A Point /CLparcours3D.cpp
+
+/Users/indianasofia/CLionProjects/Prosit A Point /CLparcours3D.h
+math.h
+-
+CLpoint3D.h
+/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint3D.h
+CLP3D.h
+/Users/indianasofia/CLionProjects/Prosit A Point /CLP3D.h
+
+/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint.cpp
+
+/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint.h
+
+/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint3D.cpp
+
+/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint3D.h
+CLpoint.h
+/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint.h
+
+/Users/indianasofia/CLionProjects/Prosit A Point /main.cpp
+iostream
+-
+CLParcours.h
+/Users/indianasofia/CLionProjects/Prosit A Point /CLParcours.h
+CLparcours2D.h
+/Users/indianasofia/CLionProjects/Prosit A Point /CLparcours2D.h
+CLparcours3D.h
+/Users/indianasofia/CLionProjects/Prosit A Point /CLparcours3D.h
+CLpoint.h
+/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint.h
+CLpoint3D.h
+/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint3D.h
+CLP3D.h
+/Users/indianasofia/CLionProjects/Prosit A Point /CLP3D.h
+
