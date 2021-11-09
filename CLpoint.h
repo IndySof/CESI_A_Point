@@ -5,6 +5,7 @@
 #ifndef PROSIT_A_POINT__CLPOINT_H
 #define PROSIT_A_POINT__CLPOINT_H
 
+
 class CLpoint{
 
 public:
@@ -12,6 +13,7 @@ public:
     CLpoint() {X=0; Y=0;}
     CLpoint(int X, int Y, int Z) {this->X = X;this->Y = Y;}
 
+    void afficherCoordo();
 };
 
 #endif //PROSIT_A_POINT__CLPOINT_H

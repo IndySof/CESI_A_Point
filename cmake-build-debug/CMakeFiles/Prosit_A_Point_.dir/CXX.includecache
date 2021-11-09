@@ -6,61 +6,61 @@
 
 #IncludeRegexTransform: 
 
-/Users/indianasofia/CLionProjects/Prosit A Point /CLP3D.cpp
-CLP3D.h
-/Users/indianasofia/CLionProjects/Prosit A Point /CLP3D.h
-
-/Users/indianasofia/CLionProjects/Prosit A Point /CLP3D.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLP3D.h
 CLpoint3D.h
-/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint3D.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLpoint3D.h
 
-/Users/indianasofia/CLionProjects/Prosit A Point /CLParcours.cpp
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLParcours.cpp
+CLParcours.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLParcours.h
 
-/Users/indianasofia/CLionProjects/Prosit A Point /CLParcours.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLParcours.h
 CLpoint.h
-/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLpoint.h
+iostream
+-
 
-/Users/indianasofia/CLionProjects/Prosit A Point /CLparcours2D.cpp
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLparcours2D.cpp
+CLparcours2D.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLparcours2D.h
+iostream
+-
 
-/Users/indianasofia/CLionProjects/Prosit A Point /CLparcours2D.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLparcours2D.h
 math.h
 -
 CLpoint.h
-/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLpoint.h
+CLParcours.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLParcours.h
 
-/Users/indianasofia/CLionProjects/Prosit A Point /CLparcours3D.cpp
-
-/Users/indianasofia/CLionProjects/Prosit A Point /CLparcours3D.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLparcours3D.h
 math.h
 -
 CLpoint3D.h
-/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint3D.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLpoint3D.h
 CLP3D.h
-/Users/indianasofia/CLionProjects/Prosit A Point /CLP3D.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLP3D.h
 
-/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint.cpp
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLpoint.h
 
-/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint.h
-
-/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint3D.cpp
-
-/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint3D.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLpoint3D.h
 CLpoint.h
-/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLpoint.h
 
-/Users/indianasofia/CLionProjects/Prosit A Point /main.cpp
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/main.cpp
 iostream
 -
 CLParcours.h
-/Users/indianasofia/CLionProjects/Prosit A Point /CLParcours.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLParcours.h
 CLparcours2D.h
-/Users/indianasofia/CLionProjects/Prosit A Point /CLparcours2D.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLparcours2D.h
 CLparcours3D.h
-/Users/indianasofia/CLionProjects/Prosit A Point /CLparcours3D.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLparcours3D.h
 CLpoint.h
-/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLpoint.h
 CLpoint3D.h
-/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint3D.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLpoint3D.h
 CLP3D.h
-/Users/indianasofia/CLionProjects/Prosit A Point /CLP3D.h
+C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLP3D.h
 

@@ -22,7 +22,7 @@ public :
 
 
 
-    double calculDistance(){};
+    virtual double calculDistance(){return 0;};
 
     void ajouterPoint(CLpoint3D *pLpoint) {
 
