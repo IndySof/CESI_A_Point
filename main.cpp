@@ -35,7 +35,7 @@ int main(void) {
     p1 = new CLpoint3D(0.0, 0.0, 0.0);
     p2 = new CLpoint3D(1.0, 1.0, 1.0);
     p3 = new CLpoint3D(2.0, 2.0, 2.2);
-    parcours = new CLparcours3D(3);
+    parcours = reinterpret_cast<CLParcours *>(new CLparcours3D(3));
 
     parcours->ajouterPoint(p1);
     parcours->ajouterPoint(p2);

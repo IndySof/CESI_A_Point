@@ -27,14 +27,14 @@ public:
         if (nbreDePointsAjoute < 2 || nbreDePointsAjoute > 3) {std::cerr << "2 points minimum / 3 points max" << std::endl; return 0;}
 
         if (nbreDePointsAjoute == 2){
-            d1 = sqrt(pow(this -> listeDePoints[1].X - this -> listeDePoints[0].X ,2) +
-                    pow(this -> listeDePoints[1].Y - this -> listeDePoints[0].Y ,2) +
-                    pow(this -> listeDePoints[1].Z - this -> listeDePoints[0].Z ,2));
+            d1 = sqrt(pow(this -> listeDePoints[1].XX - this -> listeDePoints[0].XX ,2) +
+                    pow(this -> listeDePoints[1].YY - this -> listeDePoints[0].YY ,2) +
+                    pow(this -> listeDePoints[1].ZZ - this -> listeDePoints[0].ZZ ,2));
         }
         if (nbreDePointsAjoute == 3) {
-            d2 = sqrt(pow(this->listeDePoints[2].X - this->listeDePoints[1].X, 2) +
-                      pow(this->listeDePoints[2].Y - this->listeDePoints[1].Y, 2) +
-                      pow(this->listeDePoints[2].Z - this->listeDePoints[1].Z, 2));
+            d2 = sqrt(pow(this->listeDePoints[2].XX - this->listeDePoints[1].XX, 2) +
+                      pow(this->listeDePoints[2].YY - this->listeDePoints[1].YY, 2) +
+                      pow(this->listeDePoints[2].ZZ - this->listeDePoints[1].ZZ, 2));
         }
         return d1+d2;
 
