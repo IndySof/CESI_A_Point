@@ -8,13 +8,13 @@
 #include "CLpoint.h"
 
 class CLpoint3D: CLpoint{
-protected:
+
 
 public:
     int XX;
     int YY;
     int ZZ;
-    CLpoint3D() {X=0; Y=0;}
+    CLpoint3D() {XX=0; YY=0; ZZ=0;}
     CLpoint3D(int XX, int YY, int ZZ){
         this->XX = XX;
         this->YY = YY;
