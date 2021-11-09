@@ -7,7 +7,7 @@
 
 #include "CLpoint.h"
 
-class CLpoint3D: CLpoint{
+class CLpoint3D: public CLpoint{
 
 
 public:
