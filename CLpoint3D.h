@@ -11,11 +11,11 @@ class CLpoint3D: public CLpoint{
 
 
 public:
-    int XX;
-    int YY;
-    int ZZ;
+    double XX;
+    double YY;
+    double ZZ;
     CLpoint3D() {XX=0; YY=0; ZZ=0;}
-    CLpoint3D(int XX, int YY, int ZZ){
+    CLpoint3D(double XX, double YY, double ZZ){
         this->XX = XX;
         this->YY = YY;
         this->ZZ = ZZ;

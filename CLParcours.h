@@ -8,12 +8,18 @@
 #include "CLpoint.h"
 #include <iostream>
 
+
+//extern double Resultat;
+
 class CLParcours {
+private:
+    double Resultat;
 
 public :
-
     CLpoint* listeDePoints;
     int nbreDePointsTotal;
+    double getResultat();
+    void setResultat(double);
     int nbreDePointsAjoute = 0;
 
     CLParcours();

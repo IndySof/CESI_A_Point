@@ -7,11 +7,6 @@
 #include "CLpoint.h"
 #include "CLpoint3D.h"
 
-
-
-
-
-
 int main(void) {
     int pause;
 
@@ -19,6 +14,7 @@ int main(void) {
     CLpoint* p2;
     CLpoint* p3;
     CLParcours* parcours;
+
 
     p1 = new CLpoint(0.0 , 0.0, 0.0);
     p2 = new CLpoint(1.0 , 1.0, 1.0);
@@ -29,7 +25,7 @@ int main(void) {
     parcours->ajouterPoint(p2);
     parcours->ajouterPoint(p3);
 
-    std::cout << "Distance total du parcours 2D :" << parcours -> calculDistance() << std::endl;
+    //std::cout << "Distance total du parcours 2D :" << parcours -> calculDistance() << std::endl;
     parcours->message();
 
     p1 = new CLpoint3D(0.0, 0.0, 0.0);
@@ -40,9 +36,10 @@ int main(void) {
     parcours->ajouterPoint(p1);
     parcours->ajouterPoint(p2);
     parcours->ajouterPoint(p3);
+    parcours -> setResultat(parcours -> calculDistance());
 
-    std::cout << parcours -> calculDistance() << std::endl;
-    std::cout << "Distance total du parcours :" << parcours -> calculDistance() << std::endl;
+    //std::cout << parcours -> calculDistance() << std::endl;
+  //  std::cout << "Distance total du parcours : " << Resultat << std::endl;
 
     parcours->message();
 
