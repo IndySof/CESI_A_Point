@@ -18,6 +18,7 @@ void CLparcours2D::ajouterPoint(CLpoint *p){
     std::cout << "CLparcours2D::ajouterPoint ajout de : (" <<  this -> listeDePoints[nbreDePointsAjoute].X << ";" <<  this -> listeDePoints[nbreDePointsAjoute].X << ")\n";
     this -> nbreDePointsAjoute++;
 }
+int r;
 double CLparcours2D::calculDistance(){
     double d1=0,d2=0;
     //std::cout << "calculerDistance CLparcours2D \n";
@@ -30,12 +31,13 @@ double CLparcours2D::calculDistance(){
         d2 = sqrt(pow(this->listeDePoints[2].X - this->listeDePoints[1].X, 2) +
                   pow(this->listeDePoints[2].Y - this->listeDePoints[1].Y, 2));
     }
+
+    r = d1+d2;
     //std::cout << "CLparcours2D::calculDistance d1="  <<  d1   << " et d2=" << d2 << "\n";
     return d1+d2;
 
 }
 void CLparcours2D::message() {
 
-    std::cout << "Coordonnée : " << std::endl;
 
 }

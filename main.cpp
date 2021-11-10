@@ -29,7 +29,7 @@ int main(void) {
     parcours->ajouterPoint(p2);
     parcours->ajouterPoint(p3);
 
-    std::cout << "Distance total du parcours :" << parcours -> calculDistance() << std::endl;
+    std::cout << "Distance total du parcours 2D :" << parcours -> calculDistance() << std::endl;
     parcours->message();
 
     p1 = new CLpoint3D(0.0, 0.0, 0.0);
@@ -42,6 +42,7 @@ int main(void) {
     parcours->ajouterPoint(p3);
 
     std::cout << parcours -> calculDistance() << std::endl;
+    std::cout << "Distance total du parcours :" << parcours -> calculDistance() << std::endl;
 
     parcours->message();
 
