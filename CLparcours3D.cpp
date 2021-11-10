@@ -2,23 +2,23 @@
 // Created by Indiana Sofia on 09/11/2021.
 //
 
-#include <math.h>
+#include <cmath>
 
 #include "CLpoint3D.h"
 #include "CLparcours3D.h"
 
 #include <iostream>
 
-CLparcours3D(int nbreDePointsTotal) {
+CLparcours3D::CLparcours3D(int nbreDePointsTotal) {
     this -> nbreDePointsTotal = nbreDePointsTotal;
     this -> listeDePoints = new CLpoint3D[nbreDePointsTotal];
 }
 
-void ajouterPoint(CLpoint3D *p){
+void CLparcours3D::ajouterPoint(CLpoint3D *p){
     this -> listeDePoints[nbreDePointsAjoute] = *p;
     this -> nbreDePointsAjoute++;
 }
-double calculerDistance(){
+double CLparcours3D::calculDistance(){
     double d1=0,d2=0;
     if (nbreDePointsAjoute < 2 || nbreDePointsAjoute > 3) {std::cerr << "2 points minimum / 3 points max" << std::endl; return 0;}
 

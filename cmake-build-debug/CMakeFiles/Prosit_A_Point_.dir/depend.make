@@ -16,7 +16,11 @@ CMakeFiles/Prosit_A_Point_.dir/CLparcours2D.cpp.o: \
  ../CLparcours2D.h \
  ../CLpoint.h
 CMakeFiles/Prosit_A_Point_.dir/CLparcours3D.cpp.o: \
- ../CLparcours3D.cpp
+ ../CLP3D.h \
+ ../CLparcours3D.cpp \
+ ../CLparcours3D.h \
+ ../CLpoint.h \
+ ../CLpoint3D.h
 CMakeFiles/Prosit_A_Point_.dir/CLpoint.cpp.o: \
  ../CLpoint.cpp \
  ../CLpoint.h
