@@ -13,11 +13,11 @@
 
 class CLParcours {
 private:
-    double Resultat;
+    double Resultat{};
 
 public :
-    CLpoint* listeDePoints;
-    int nbreDePointsTotal;
+    CLpoint* listeDePoints{};
+    int nbreDePointsTotal{};
     double getResultat();
     void setResultat(double);
     int nbreDePointsAjoute = 0;

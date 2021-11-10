@@ -17,7 +17,6 @@ void CLParcours::setResultat(double val) {
 CLParcours::CLParcours(int nbreDePointTotal){};
 
 double CLParcours::calculDistance(){
-    return 0;
 };
 
 void CLParcours::ajouterPoint(CLpoint *pLpoint) {
