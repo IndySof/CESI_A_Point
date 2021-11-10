@@ -8,118 +8,118 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug"/>
+				<Option working_dir="/Users/indianasofia/CLionProjects/Prosit A Point /cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Prosit_A_Point_">
-				<Option output="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Prosit_A_Point_.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 Prosit_A_Point_"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Prosit_A_Point_/fast">
-				<Option output="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Prosit_A_Point_.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 Prosit_A_Point_/fast"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug"/>
+				<Option working_dir="/Users/indianasofia/CLionProjects/Prosit A Point /cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/indianasofia/CLionProjects/Prosit A Point /cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Prosit_A_Point_">
+				<Option output="/Users/indianasofia/CLionProjects/Prosit A Point /cmake-build-debug/Prosit_A_Point_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/indianasofia/CLionProjects/Prosit A Point /cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 Prosit_A_Point_"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Prosit_A_Point_/fast">
+				<Option output="/Users/indianasofia/CLionProjects/Prosit A Point /cmake-build-debug/Prosit_A_Point_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/indianasofia/CLionProjects/Prosit A Point /cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 Prosit_A_Point_/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/indianasofia/CLionProjects/Prosit\ A\ Point\ /cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLP3D.cpp">
+		<Unit filename="/Users/indianasofia/CLionProjects/Prosit A Point /CLP3D.cpp">
 			<Option target="Prosit_A_Point_"/>
 		</Unit>
-		<Unit filename="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLP3D.h">
+		<Unit filename="/Users/indianasofia/CLionProjects/Prosit A Point /CLP3D.h">
 			<Option target="Prosit_A_Point_"/>
 		</Unit>
-		<Unit filename="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLParcours.cpp">
+		<Unit filename="/Users/indianasofia/CLionProjects/Prosit A Point /CLParcours.cpp">
 			<Option target="Prosit_A_Point_"/>
 		</Unit>
-		<Unit filename="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLParcours.h">
+		<Unit filename="/Users/indianasofia/CLionProjects/Prosit A Point /CLParcours.h">
 			<Option target="Prosit_A_Point_"/>
 		</Unit>
-		<Unit filename="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLparcours2D.cpp">
+		<Unit filename="/Users/indianasofia/CLionProjects/Prosit A Point /CLparcours2D.cpp">
 			<Option target="Prosit_A_Point_"/>
 		</Unit>
-		<Unit filename="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLparcours2D.h">
+		<Unit filename="/Users/indianasofia/CLionProjects/Prosit A Point /CLparcours2D.h">
 			<Option target="Prosit_A_Point_"/>
 		</Unit>
-		<Unit filename="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLparcours3D.cpp">
+		<Unit filename="/Users/indianasofia/CLionProjects/Prosit A Point /CLparcours3D.cpp">
 			<Option target="Prosit_A_Point_"/>
 		</Unit>
-		<Unit filename="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLparcours3D.h">
+		<Unit filename="/Users/indianasofia/CLionProjects/Prosit A Point /CLparcours3D.h">
 			<Option target="Prosit_A_Point_"/>
 		</Unit>
-		<Unit filename="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLpoint.cpp">
+		<Unit filename="/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint.cpp">
 			<Option target="Prosit_A_Point_"/>
 		</Unit>
-		<Unit filename="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLpoint.h">
+		<Unit filename="/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint.h">
 			<Option target="Prosit_A_Point_"/>
 		</Unit>
-		<Unit filename="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLpoint3D.cpp">
+		<Unit filename="/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint3D.cpp">
 			<Option target="Prosit_A_Point_"/>
 		</Unit>
-		<Unit filename="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CLpoint3D.h">
+		<Unit filename="/Users/indianasofia/CLionProjects/Prosit A Point /CLpoint3D.h">
 			<Option target="Prosit_A_Point_"/>
 		</Unit>
-		<Unit filename="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/main.cpp">
+		<Unit filename="/Users/indianasofia/CLionProjects/Prosit A Point /main.cpp">
 			<Option target="Prosit_A_Point_"/>
 		</Unit>
-		<Unit filename="C:/Users/Indiana SOFIA/CLionProjects/CESI_A_Point/CMakeLists.txt">
+		<Unit filename="/Users/indianasofia/CLionProjects/Prosit A Point /CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

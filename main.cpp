@@ -6,7 +6,7 @@
 #include "CLparcours3D.h"
 #include "CLpoint.h"
 #include "CLpoint3D.h"
-#include "CLP3D.h"
+
 
 
 
@@ -45,10 +45,10 @@ int main(void) {
 
     parcours->message();
 
-   /* p1 = new CLpoint(0.0,0.0,0.0);
+    p1 = new CLpoint(0.0,0.0,0.0);
     p2 = new CLpoint3D(1.0,1.0,1.0);
 
-    (p1 = p2) -> afficherCoordo();*/
+    (p1 = p2) -> afficherCoordo();
 
     std::cin >> pause;
 
