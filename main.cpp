@@ -41,7 +41,7 @@ int main(void) {
     double var;
     var = parcours -> getResultat();
 
-    //std::cout << parcours -> calculDistance() << std::endl;
+
   std::cout << "Distance total du parcours 3D : " << var << std::endl;
 
     parcours->message();
@@ -54,6 +54,8 @@ int main(void) {
     (p1 = p2) -> afficherCoordo();
 
     std::cin >> pause;
+
+
 
     return 0;
 
